@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 832px;
+    background-image: url(/src/imagens/contato2.png) ;
+  }
+  h1{
+    font-size: 50px;
+    
+   
+  }
+  button {
+    margin: 0.5em 0;
+    background-color: #0a66c2;
+    border: 0;
+    border-radius: 100px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 20px;
+    min-height: 35px;
+    padding: 0 20px;
+    text-align: center;
+  }
+  button:hover{
+    background: #29A2AB;
+  }
+  button:active {
+    background: #09223b;
+    color: rgb(255, 255, 255, 0.7);
+    transform: translateY(4px);
+  
+  }
+  
+  h2{
+    font-size: 40px;
+    margin-left: 50px;
+    
+  }
+  
+  li i {
+    color: rgb(2, 0, 148);
+    
+    
+  }
+  
+  li b {
+    color: green;
+    
+  }
+  
+  .failure {
+    color: rgb(128, 0, 0);
+    
+  }
+  

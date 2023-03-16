@@ -1,0 +1,70 @@
+
+
+body{
+  
+  background-color: white;
+  font-size: 4rem;
+  background-image: url(/src/imagens/contato2.png) ;
+}
+
+.h1{
+    text-align:center;
+    background-color: white;
+    font-size: 4rem;
+   
+}
+
+  
+  .form input{
+    display: block;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: 3px solid #CCC;
+    height: 50px;
+    width: 250px;
+    font-family: sans-serif;
+    margin-left: 900px;
+    margin-top: 30x;
+  }
+  
+  .form label {
+    position: absolute;
+    float: left;
+    font-family: sans-serif;
+    margin-left: 500px;
+    color: black;
+  }
+  
+  form .enviar {
+    height: 50px;
+    width: 200px;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    background-color: #eee;
+    margin-left:780px;  
+  }
+
+  .box {
+    margin-left: 200px;  
+  }
+  
+  .box2 {
+    margin-left: 200px;  
+  }
+
+  .box3 {
+    margin-left: 200px;  
+  }
+
+  .box4 {
+    margin-left: 900px;
+    height: 50px;
+    width: 250px;  
+  }
+
+  .box5 {
+    margin-left:200px;  
+  }
+  
+ 

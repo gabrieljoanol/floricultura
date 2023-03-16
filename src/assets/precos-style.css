@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    background-color:white;
+    font-size: 4rem;
+    background-image:  url(/src/imagens/fundo\ preços.png);
+}
+
+.h1{
+    justify-content: center;
+    font-size: 2rem;
+   
+}
+
+
